@@ -94,7 +94,7 @@ __personnel__: Frontend Developer, (Designer)
 
 After all previous phases have been completed, the frontend developer must then provide a timeline for his development end and start developing the project as per that timeline
 
-__personnel__: Frontend Developer, (Designer)
+__personnel__: Frontend Developer
 
 ## Testing Phase
 
